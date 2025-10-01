@@ -1,0 +1,2 @@
+with open ("Archivos txt/Txt_conferencia.txt",'a',encoding="UTF-8") as archivo:
+    archivo.writelines(["Aprendiendo a manejar archivos txt en python","Aprendiendo el ultimo bloque de la dfafasfasf\n"]) 
